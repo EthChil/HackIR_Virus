@@ -1,0 +1,4 @@
+[Autorun]
+;open=main.bat
+ShellExecute=main.bat
+UseAutoPlay=1
